@@ -27,6 +27,16 @@
     Academic Standing:	      Good Standing </font> </pre>
  
   <p class="body-text"> <font face="verdana"> Undergrad - Urbana-Champaign Course work </font></p>
-      <span style="background-color: #FFFF00">Yellow text.</span>
+     <p class="body-text"> <font face="verdana"> <span style="background-color: #FFFF00">CRN</span>
+      <span style="background-color: #FFFF00">CRN</span>
+      <span style="background-color: #FFFF00">Subject</span>
+      <span style="background-color: #FFFF00">Course</span>
+      <span style="background-color: #FFFF00">Section</span>
+      <span style="background-color: #FFFF00">Course Title</span>
+      <span style="background-color: #FFFF00">Campus</span>
+      <span style="background-color: #FFFF00">Final Grade</span>
+      <span style="background-color: #FFFF00">CRN</span>
+      <span style="background-color: #FFFF00">CRN</span>
+      <span style="background-color: #FFFF00">CRN</span></font></p>
     
 </html> 
