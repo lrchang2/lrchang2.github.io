@@ -1,30 +1,52 @@
-html{
-  font: inherit;
-  //background-color: black;
- // color: white;
-  
+body,
+
+html {
+margin:0;
+padding:0;
+color:#000;
+background:#FFFFF;
 }
 
-body {
-    font-size: 2rem;
-    line-height: 1.5;
+wrap {
+width:100%
+margin:0 auto;
+text-align: center;
+}
+
+header {
+padding:1em;
+background:#ddd;
+text-align:center;
 }
 
 h1 {
-    font-size: 2.5rem;
-    line-height: 1.1;
+margin:100;
+  text-align:center;
 }
 
-h2 {
-    font-size: 1.2rem;
-    line-height: 1.2;
+columnzero{
+float:left;
+width:50%;
+padding:10px;
+background:#F39C12;
 }
 
-h3 {
-    font-size: 1rem;
-    line-height: 1.2;
+columnone {
+float:right;
+width:50%;
+padding:10px;
+background:#2E86C1;
 }
 
+columntwo {
+float:left;
+width:50%;
+padding:15px;
+background:#F39C12;
+}
 
-
-
+footer {
+clear:both;
+padding:5px 10px;
+margin: 0;
+}
