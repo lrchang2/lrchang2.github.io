@@ -7,7 +7,7 @@ color:#000;
 background:#FFFFF;
 }
 
-wrap {
+#wrap {
 width:100%
 margin:0 auto;
 text-align: center;
@@ -24,21 +24,21 @@ margin:100;
   text-align:center;
 }
 
-columnzero{
+#columnzero{
 float:left;
 width:50%;
 padding:10px;
 background:#F39C12;
 }
 
-columnone {
+#columnone {
 float:right;
 width:50%;
 padding:10px;
 background:#2E86C1;
 }
 
-columntwo {
+#columntwo {
 float:left;
 width:50%;
 padding:15px;
