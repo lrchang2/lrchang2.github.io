@@ -7,7 +7,7 @@ color:#000;
 background:#FFFFF;
 }
 
-#wrap {
+nav {
 width:100%
 margin:0 auto;
 text-align: center;
@@ -24,25 +24,18 @@ margin:100;
   text-align:center;
 }
 
-#columnzero{
+main{
 float:left;
 width:50%;
 padding:10px;
 background:#F39C12;
 }
 
-#columnone {
+aside {
 float:right;
 width:50%;
 padding:10px;
 background:#2E86C1;
-}
-
-#columntwo {
-float:left;
-width:50%;
-padding:15px;
-background:#F39C12;
 }
 
 footer {
